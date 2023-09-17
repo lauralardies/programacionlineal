@@ -10,7 +10,7 @@ def main():
     # Vemos si el estado de la solución es óptimo.
     if estado == pywraplp.Solver.OPTIMAL:  
         print('================= Solución =================')  
-        print(f'El problema se ha resuelto en {ejercito.solucionador.wall_time():.2f} milisegundos y en {Ejercito.solucionador.iterations()} iteraciones.')  
+        print(f'El problema se ha resuelto en {ejercito.solucionador.wall_time():.2f} milisegundos y en {ejercito.solucionador.iterations()} iteraciones.')  
         print()  
         print(f'Valor del poder óptimo = {ejercito.solucionador.Objective().Value()} 💪 Poder')  
         print('Ejército:')
