@@ -19,7 +19,7 @@ Datos
 Todos los archivos de esta tarea se encuentran dentro de una carpeta llamada `Programación Lineal`. Dentro de ella te puedes encontrar con lo siguiente:
 
 - Un archivo llamado `optimizacion.py` que cuenta con el código que realiza el algortimo de programación lineal para optimizar. 
-- Un archivo llamado `main.py` en el que se interpretan los resultados obtenidos de la optimización. En caso de ser óptima la solución se imprime el resultado, de lo contrario se notifica de que no se ha podido encontrar una solución óptima.
+- Un archivo llamado `main.py` en el que se ejecuta el algoritmo y muestra los resultados de la optimización. En caso de ser óptima la solución se imprime el resultado, de lo contrario se notifica de que no se ha podido encontrar una solución óptima.
 - Un archivo llamado `run.py` mediante el cual se ejecuta el código.
 - Un documento LaTeX en el que se muestran las conclusiones obtenidas del problema.
 
