@@ -4,7 +4,7 @@ Mi dirección de GitHub para este repositorio es la siguiente: [GitHub](https://
 https://github.com/lauralardies/programacionlineal
 
 ## Tarea
-Esta tarea consiste en la optimización de recursos meidante programación lineal. Debemos crear el ejército más poderoso posible teniendo en cuenta los recursos que tenemos.
+Esta tarea consiste en la optimización de recursos mediante programación lineal. Debemos crear el ejército más poderoso posible teniendo en cuenta los recursos que tenemos.
 
 Datos
 | Recursos | 🗡️ Espadachines | 🏹 Arqueros | 🐎 Jinetes |
